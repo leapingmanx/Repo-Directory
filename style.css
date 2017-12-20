@@ -1,0 +1,25 @@
+body {
+    background-color: #999;
+    text-align: center;
+  }
+  
+  .repo-div{
+    color: #fff;
+    background-color: #11abab;
+    border: 5px solid #000;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    height: 150px;
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .repo-div p {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  
+  div {
+    display: block;
+  }
